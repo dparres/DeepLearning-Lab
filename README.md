@@ -1,17 +1,11 @@
 # Deep Learning Lab
-Some of the lab examples and exercises of my deep learning lectures. 
+This repository contains the laboratory sessions that I have conducted for the Artificial Neural Networks subject in the Master's Degree in Artificial Intelligence, Pattern Recognition, and Digital Imaging at the Universitat Politècnica de València.
 
-## Examples
+## Sessions
 
-+ Two different tasks:
++ Multilayer perceptron on [MNIST](https://paperswithcode.com/dataset/mnist):
 
-  - [MNIST](http://yann.lecun.com/exdb/mnist/) and
-  - [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) 
-
-+ Two different toolkits:
-  - [Keras](https://keras.io)
-  - [Pythorch](https://pytorch.org)
-
++ Convolutional neural network on [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html):
 
 ## Recommendations
 
