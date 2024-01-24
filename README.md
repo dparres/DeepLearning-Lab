@@ -3,9 +3,9 @@ This repository contains the laboratory sessions that I have conducted for the A
 
 ## Sessions
 
-+ Multilayer Perceptron on [MNIST](https://paperswithcode.com/dataset/mnist)
++ Lab1: Multilayer Perceptron on [MNIST](https://paperswithcode.com/dataset/mnist)
 
-+ Convolutional Neural Networks on [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
++ Lab2: Convolutional Neural Networks on [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## Recommendations
 
