@@ -1,5 +1,5 @@
 # Deep Learning Lab
-This repository contains the laboratory sessions that I have conducted for the Artificial Neural Networks subject in the Master's Degree in Artificial Intelligence, Pattern Recognition, and Digital Imaging at the Universitat Politècnica de València.
+This repository contains the laboratory sessions that I have conducted for the Artificial Neural Networks subject in the [Master's Degree in Artificial Intelligence, Pattern Recognition, and Digital Imaging](https://www.upv.es/titulaciones/MUIARFID/) at the Universitat Politècnica de València.
 
 ## Sessions
 
