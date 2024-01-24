@@ -21,7 +21,7 @@ print("Device: ", device)
 train_transform = transforms.Compose(
                     [
                     transforms.RandomRotation(3),
-                    transforms.RandomAffine(degrees=2, translate=(0.002,0.001), scale=(0.001, 1.64)),
+                    transforms.RandomAffine(degrees=20, translate=(0.1,0.1), scale=(0.9, 1.1)),
                     transforms.ToTensor(),
                     ])
 
